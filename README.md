@@ -1,0 +1,1 @@
+nav_account.xml adında ikinci bir navigasyon oluşturuldu. Onboarding activity'den Account Activity geçildikten sonra ilk activity finish yapılıyor. İkinci navigation'da üç tane fragment var ve aralarında geçiş yapılıyor
